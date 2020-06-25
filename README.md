@@ -5,18 +5,18 @@ This is intended as a reference and to share improvements for similar build, not
 
 ## Ryzen Mac Pro build
 
-**Prozessor:** AMD Ryzen 7 1700
+**Prozessor:** AMD Ryzen 7 1700  
 **Motherboard:** AsRock X570 Phantom Gaming ITX/TB3 (BIOS 2.0)  
-**Memory:** G Skill Trident Z RGB 64GB (16GB * 4)
-**Video Card:** Sapphire Radeon RX 580 NITRO+ SE
+**Memory:** G Skill Trident Z RGB 64GB (16GB * 4)  
+**Video Card:** Sapphire Radeon RX 580 NITRO+ SE  
 
 ### Notes
 
 
 ## Versions
-**BIOS:** 7704
-**OpenCore:** 0.5.8
-**macOS:** 10.15.5 
+**BIOS:** 7704  
+**OpenCore:** 0.5.8  
+**macOS:** 10.15.5   
 
 
 Cedits and links:

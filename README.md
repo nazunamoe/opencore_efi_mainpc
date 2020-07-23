@@ -6,7 +6,7 @@ This is intended as a reference and to share improvements for similar build, not
 ## Ryzen Mac Pro build
 
 **Prozessor:** AMD Ryzen 7 1700  
-**Motherboard:** ROG Crosshair VI HERO 
+**Motherboard:** ROG Crosshair VI HERO  
 **Memory:** G Skill Trident Z RGB 64GB (16GB * 4)  
 **Video Card:** Sapphire Radeon RX 580 NITRO+ SE  
 

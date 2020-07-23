@@ -15,7 +15,7 @@ This is intended as a reference and to share improvements for similar build, not
 
 ## Versions
 **BIOS:** 7704  
-**OpenCore:** 0.5.8  
+**OpenCore:** 0.6.0 DevBuild
 **macOS:** 11.0 Beta   
 
 

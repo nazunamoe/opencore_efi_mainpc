@@ -1,6 +1,6 @@
-# Ryzen Mac Pro - OpenCore EFI for ASUS Crosshair VI HERO 
+# Ryzen Mac Pro - OpenCore EFI for ROG Crosshair VI HERO 
 
-This repository provides the basic EFI folder to run macOS Catalina on an ASUS Crosshair VI HERO motherboard. The default provided currently using a Ryzen 7 1700 and Radeon RX 580 . 
+This repository provides the basic EFI folder to run macOS Catalina on an ASUS Crosshair VI HERO motherboard. The default provided currently using a Ryzen 7 1700 and Radeon RX 580. 
 This is intended as a reference and to share improvements for similar build, not as an out of the box EFI to download. It is highly recommended to start with a vanilla OpenCore and following OpenCore Vanilla Guide first.
 
 ## Ryzen Mac Pro build
@@ -16,8 +16,9 @@ This is intended as a reference and to share improvements for similar build, not
 ## Versions
 **BIOS:** 7704  
 **OpenCore:** 0.5.8  
-**macOS:** 10.15.5   
+**macOS:** 11.0 Beta   
 
 
 Cedits and links:
 * [OpenCore Desktop Guide](https://github.com/dortania/OpenCore-Desktop-Guide)
+* [AMD-OSX](https://github.com/AMD-OSX/AMD_Vanilla)

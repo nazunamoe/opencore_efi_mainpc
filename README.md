@@ -20,6 +20,6 @@ This is intended as a reference and to share improvements for similar build, not
 **macOS:** 11.0 Beta   
 
 
-## Cedits and links:
+## Cedits and links
 * [OpenCore Desktop Guide](https://github.com/dortania/OpenCore-Desktop-Guide)   
 * [AMD-OSX](https://github.com/AMD-OSX/AMD_Vanilla)   

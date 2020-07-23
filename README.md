@@ -11,7 +11,7 @@ This is intended as a reference and to share improvements for similar build, not
 **Video Card:** Sapphire Radeon RX 580 NITRO+ SE  
 
 
-### Notes
+## Notes
 
 
 ## Versions
